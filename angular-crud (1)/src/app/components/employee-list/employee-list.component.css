@@ -1,0 +1,29 @@
+.delete
+{
+  background-color: red;
+  color: white;
+  border-style: none;
+  border-radius: 10px;
+  margin-right: 5px;
+  width:70px;
+  height:40px;
+}
+.update{
+  background-color: green;
+  color: white;
+  border-style: none;
+  border-radius: 10px;
+  margin-right: 5px;
+  width:70px;
+  height:40px;
+
+}
+.view{
+  background-color: blue;
+  color: white;
+  border-style: none;
+  border-radius: 10px;
+  margin-right: 5px;
+  width:70px;
+  height:40px;
+}
